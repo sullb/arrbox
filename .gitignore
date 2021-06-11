@@ -1,0 +1,4 @@
+*.yml
+meterbox/*
+.esphome/*
+.vscode
