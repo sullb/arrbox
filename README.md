@@ -1,6 +1,8 @@
 # arrbox
 Will only be useful to 2 people at the moment.
 
+This is a basterdised ESPHome component to work with a very specific power monitoring solution.
+
 ```yaml
 external_components:
   - source:
